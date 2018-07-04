@@ -18,6 +18,7 @@ public class Repositorio {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null,"TECNOLOGIA DE SOFTWARE");
+        System.out.println("CAMBIO 1");        
     }
     
 }
